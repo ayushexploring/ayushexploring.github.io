@@ -286,16 +286,18 @@ section .work-rhs{
 }
 /******************************************************************************************************************************/
 #images{
-	background-image: url(../images/images.jpg);
+	background-image: url(../images/work1.png);
 	background-size: cover;
 	background-attachment: fixed;
 }
 section .image-content{
-	text-align: center;
+	/*text-align: center;*/
 	margin-top: auto;
+	/*color: white;*/
 }
 #images-heading{
-	color: white;
+	/*color: white;*/
+	text-align: center;
 	font-size: 50px;
 }
 #images img{
