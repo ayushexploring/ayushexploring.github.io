@@ -22,7 +22,7 @@ $('#about-link').click(function(){
 });
 $('#portfolio-link').click(function(){
 	$('html, body').animate({
-        scrollTop: $("#images").offset().top
+        scrollTop: $("#my-works").offset().top
     }, 500);
 });
 // $('#contact-link').click(function(){
