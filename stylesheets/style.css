@@ -111,9 +111,9 @@ a{
 	border-radius: 50%;
 	opacity: 1;
 }
-section{
+/*section{
 	height: 100vh;
-}
+}*/
 #take-up img{
 	width: 50px;
 	height: 50px;
@@ -285,8 +285,8 @@ section .work-rhs{
 	font-size: 22px;
 }
 /******************************************************************************************************************************/
-#images{
-	background-image: url(../images/work1.png);
+#my-works{
+	background-image: url('../images/work-bg.jpg');
 	background-size: cover;
 	background-attachment: fixed;
 }
@@ -300,7 +300,7 @@ section .image-content{
 	text-align: center;
 	font-size: 50px;
 }
-#images img{
+#my-work img{
 	width: 250px;
 	height: 250px;
 	margin: 30px;
