@@ -179,6 +179,7 @@ button {
   font-size: 22px;
   box-shadow: 2px 2px 4px rgba(0, 0, 0, .4);
   background: #2196F3;
+  border-radius: 30px;
 }
 
 /* Ripple magic */
