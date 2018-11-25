@@ -4,48 +4,49 @@
 		<link rel="stylesheet" type="text/css" href="stylesheets/style.css">
 		<script src="scripts/jquery-3.3.1.js"></script>
 		<link rel="shortcut icon" type="image/png" href="images/icon2.ico">
+		<link href="stylesheets/aos.css" rel="stylesheet">
 		<title>Ayush Verma</title>
 	</head>
 	<body>
 		<header id="body-header">
 			<nav class="navbar">
 				<ul class="horizontal-list text-center white-text">
-					<li>
+					<li data-aos="fade-down" data-aos-duration="800">
 						<a id="home-link" href="#">HOME</a>
 					</li>
-					<li>
+					<li data-aos="fade-down" data-aos-duration="1200">
 						<a id="about-link" href="#">ABOUT</a>
 					</li>
-					<li>
+					<li data-aos="fade-down" data-aos-duration="1400">
 						<a id="work-link" href="#">SKILLS</a>
 					</li>
-					<li>
+					<li data-aos="fade-down" data-aos-duration="1600">
 						<a id="portfolio-link" href="#">WORKS</a>
 					</li>
-					<li>
+					<li data-aos="fade-down" data-aos-duration="1800">
 						<a id="contact-link" href="#">CONTACT</a>
 					</li>
 				</ul>
 			</nav>
 			<div id="body-header-content" class="white-text">
 				<div class="text-center">
-					<h1>Hi, I'm Ayush</h1>
-					<p>
+					<h1 data-aos="zoom-in" data-aos-duration="1500">Hi, I'm Ayush</h1>
+					<p data-aos="flip-right" data-aos-duration="1500">
 						I'm a <b><i>web designer, front-end developer</i></b> and <b><i>full-stack web developer</i></b> creating<br>awesome websites and effective visual identities for companies of all sizes around the globe.<br> Let's scroll down and know more about me.
 					</p>
 				</div>
 				<div class="social-icons">
 					<ul class="horizontal-list">
-						<li>
+						<li data-aos="zoom-in-right" data-aos-duration="1000">
 							<a href="https://www.facebook.com/profile.php?id=100000202413358%2F" target="_blank"><img src="images/fb.png" width="50px"></a>
 						</li>
-						<li>
+						<li data-aos="zoom-in-right" data-aos-duration="500">
 							<a href="https://www.twitter.com/ayushexploring" target="_blank"><img src="images/tw.png" width="50px"></a>
 						</li>
-						<li>
+						<li data-aos="zoom-in-left" data-aos-duration="500">
 							<a href="https://www.linkedin.com/in/ayushexploring" target="_blank"><img src="images/li.png" width="50px"></a>
 						</li>
-						<li>
+						<li data-aos="zoom-in-left" data-aos-duration="1000">
 							<a href="https://www.github.com/ayushexploring" target="_blank"><img src="images/github.png" width="50px"></a>
 						</li>
 					</ul>
@@ -57,7 +58,8 @@
 		<main class="main-body">
 			<section id="about">
 				<div class="about-lhs">
-					<img id="main-photo" src="images/programmer.gif">
+					<img data-aos="fade-right" data-aos-offset="300" 
+					data-aos-easing="ease-in-sine"id="main-photo" src="images/programmer.gif">
 				</div>
 				<div class="about-rhs">
 					<div>
@@ -137,5 +139,7 @@
 			</section>
 		</main>
 		<script type="text/javascript" src="scripts/script.js"></script>
+		<script src="scripts/aos.js"></script>
+		<script>AOS.init();</script>
 	</body>
 </html>
