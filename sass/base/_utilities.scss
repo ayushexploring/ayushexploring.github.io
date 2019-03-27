@@ -1,0 +1,14 @@
+.u-center-text { text-align: center !important; }
+
+@font-face {
+    font-family: 'Eurostile';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Eurostile'), url('../fonts/eurostile.woff') format('woff');
+}
+@font-face {
+    font-family: 'EuroStyle Normal';
+    font-style: normal;
+    font-weight: normal;
+    src: local('EuroStyle Normal'), url('../fonts/EuroStyle Normal.woff') format('woff');
+}

@@ -1,0 +1,59 @@
+.progres {
+    margin-top: 5rem;
+
+    & > *:not(:last-child) {
+        margin-bottom: 2rem;
+    }
+
+    &__element {
+        background-color: $color-grey-light;
+        color: $color-black;
+        width: 90%;
+        height: 2rem;
+        border-radius: 2rem;
+        position: relative;
+
+        @include respond(phone) {
+            // transform: translateX(8%);
+        }
+
+        &--fix {
+            background-color: $color-grey-dark;
+            color: $color-white;
+            height: inherit;
+            border-top-left-radius: 1rem;
+            border-bottom-left-radius: 1rem;
+        }
+
+        &--desc {
+            font-family: 'Eurostile';
+            font-size: 1.1em;
+            position: absolute;
+            height: inherit;
+        }
+
+        &--var {
+            background-image: repeating-linear-gradient(
+                45deg,
+                $color-primary 0px,
+                $color-primary 10px,
+                $color-grey-dark 20px,
+                $color-grey-dark 20px
+            );
+            height: inherit;
+            border-top-right-radius: 1rem;
+            border-bottom-right-radius: 1rem;
+        }
+
+        &--val {
+            position: absolute;
+            right: 1rem;
+            font-size: 1.1em;
+            height: inherit;
+
+            @include respond(phone) {
+                right: 1rem;
+            }
+        }
+    }
+}
