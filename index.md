@@ -40,8 +40,7 @@ With specific focus on:
 1. <a href="#">ELA-Conv: Forgery Detection in Digital Images Based on ELA and CNN</a> in 6th International Conference on Recent Trends in Image Processing & Pattern Recognition (RTIP2R), 2023<br>
 2. <a href="#">Deep Learning Envisioned Accident Detection
 System</a> in 6th International Conference on Recent Trends in Image Processing & Pattern Recognition (RTIP2R), 2023<br>
-3. <a href="#">Iris Recognition System in the Context
-of Authentication</a> in 6th International Conference on Recent Trends in Image Processing & Pattern Recognition (RTIP2R), 2023<br>
+3. <a href="#">Iris Recognition System in the Context of Authentication</a> in 6th International Conference on Recent Trends in Image Processing & Pattern Recognition (RTIP2R), 2023<br>
 
 ### Book Chapter
 
@@ -81,18 +80,19 @@ of Authentication</a> in 6th International Conference on Recent Trends in Image 
 ### Supervision and Mentorship
 
 #### M.Tech
-1. <a href="#">Intekhab Alam</a> (Supervised for M.Tech thesis, School of Computer and Systems Sciences, Jawaharlal Nehru University, Dec'22 - Jun'23)<br>
-2. <a href="#">Gaurav Kumar</a> (Supervised for M.Tech thesis, School of Computer and Systems Sciences, Jawaharlal Nehru University, Dec'22 - Jun'23) <br>
+1. Intekhab Alam - SC&SS, JNU | Title - Deep Learning Envisioned Accident Detection (Dec'22 - Jun'23)<br>
+2. Gaurav Kumar - SC&SS, JNU | Title - Iris Recognition System in the Context of Authentication (Dec'22 - Jun'23)<br>
 
 #### MCA
-1. <a href="#">Salman Khurshid</a> (Supervised for MCA thesis, School of Computer and Systems Sciences, Jawaharlal Nehru University, Dec'22 - Jun'23)<br>
-2. <a href="#">Aamir Ansari</a> (Supervised for MCA thesis, School of Computer and Systems Sciences, Jawaharlal Nehru University, Dec'22 - Jun'23)<br>
+1. Salman Khurshid - SC&SS JNU (Dec'22 - Jun'23)<br>
+2. Aamir Ansari - SC&SS JNU (Dec'22 - Jun'23)<br>
 
 #### B.Tech
-1. <a href="#">Pooja Sharma</a> (Supervised for B.Tech thesis, Department of Computer Science, Banasthali Vidyapith, Jul'23 - Dec'23) <br>
-2. <a href="#">Prabhuta Chaudhary</a> (Supervised for B.Tech thesis, Department of Computer Science, Banasthali Vidyapith, Jul'23 - Dec'23) <br>
-3. <a href="#">Amisha Agarwal</a> (Supervised for B.Tech thesis, Department of Computer Science, Banasthali Vidyapith, Jul'23 - Dec'23) <br>
-4. <a href="#">Yashi Tiwari</a> (Supervised for B.Tech thesis, Department of Computer Science, Banasthali Vidyapith, Jul'23 - Dec'23) <br>
+1. Pooja Sharma - Banasthali Vidyapith | Title - Alzheimer's Disease Classification from MRI Images with Convolutional Neural Networks (Jul'23 - Dec'23) <br>
+2. Prabhuta Chaudhary - Banasthali Vidyapith | Title - Harnessing Language Models and Machine Learning for Rancorous URL Classification (Jul'23 - Dec'23) <br>
+3. Amisha Agarwal - Banasthali Vidyapith | Title - Comparative Analysis of disease classification based on
+Machine Learning (Jul'23 - Dec'23) <br>
+4. Yashi Tiwari - Banasthali Vidyapith | Title - ML based recommendation system for crop yield and fertilizer (Jul'23 - Dec'23) <br>
 
 
 
