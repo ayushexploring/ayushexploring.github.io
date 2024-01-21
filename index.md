@@ -1,17 +1,16 @@
 
 ## About Me
 
-Hello! This is Orchid Chetia Phukan. I am currently a Ph.D. Scholar at <a href="https://iiitd.ac.in/">IIIT-Delhi</a>.
-My reserach interests include Speech Processing & Deep Learning. 
+Hello! This is Ayush Verma. I am currently a Ph.D. Scholar at <a href="https://jnu.ac.in/scss/">School of Computer and Systems Sciences, Jawaharlal Nehru University</a>, New Delhi.
+My reserach interests include Cyber Security & Deep Learning. 
 <br>
 With specific focus on:
-1. Speech Emotion Recognition and Computational Paralinguistics
+1. Denial-of-Service (DoS) attacks
 <br>
-2. Audio Deepfake Detection
+2. Distributed Denial-of-Service (DDoS) attacks
 <br>
-3. Analyzing Speech for Health-related Applications
-<br>
-4. Analyzing Speech for Forensic Applications
+3. Software Defined Networking
+
 
 
 ---
@@ -33,16 +32,24 @@ With specific focus on:
 
 ## Publications
 
+### Magazine
+
+-> <a href="https://ieee-ims.org/publication/ieee-imm">Vision-Based Accident Anticipation & Detection Using Deep Learning</a>
+
 ### Conference
 
 [comment]: <> (-> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13239">Stress recognition with multi-modal sensing using bootstrapped ensemble deep learning model</a> (Expert Systems 2023, IF: 2.812))
--> <a href="https://arxiv.org/abs/2305.18640">Transforming the Embeddings: A Lightweight Technique for Speech Emotion Recognition Tasks</a> (Accepted @ Interspeech 2023)
+-> <a href="https://link.springer.com/book/9783031530814">ELA-Conv: Forgery Detection in Digital Images Based on ELA and CNN</a> (Accepted @ RTIP2R 2023)
+
+### Book Chapter
+
+-> <a href="https://www.igi-global.com/chapter/facetrace/330919">FaceTrace: Automated Facial Recognition Attendance System</a>
 
 ---
 
 ### Talks, Honors and Achievements
 
--> Presented a session at FDP- Anil Neerukonda Institute of technology and sciences, Visakhapatnam, India on the topic of Foundations and Applications of AI in Healthcare with a specific focus on stress recognition through wearable sensors with the application of TinyML (Jan'23).
+-> Presented a session at FDP - Anil Neerukonda Institute of technology and sciences, Visakhapatnam, India on the topic of Foundations and Applications of AI in Healthcare with a specific focus on stress recognition through wearable sensors with the application of TinyML (Jan'23).
 
 ---
 

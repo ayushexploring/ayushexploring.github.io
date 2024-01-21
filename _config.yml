@@ -1,12 +1,14 @@
-title: Orchid Chetia Phukan # your name (or website title) here
-logo: "/images/orchid.jpeg?raw=true" # your photo (or logo) here
+title: Ayush Verma # your name (or website title) here
+logo: "/images/ayush.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
-  Reach out to me: orchidp@iiitd.ac.in
+  Reach out to me: ayush.k1998@gmail.com
   <br><br>
-  <a href="https://www.linkedin.com/in/orchid-chetia-phukan-7ba816169/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ayushexploring/">LinkedIn</a>
   <br><br>
-  <a href="https://scholar.google.com/citations?user=EV6cXVIAAAAJ&hl=en">Google Scholar</a>
+  <a href="https://scholar.google.com/citations?user=mldR9EoAAAAJ&hl=en&oi=sra">Google Scholar</a>
+  <br><br>
+  <a href="https://orcid.org/0000-0001-7249-1011">ORCiD</a>
 
   
 theme: jekyll-theme-minimal
