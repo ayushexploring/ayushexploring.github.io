@@ -81,7 +81,7 @@ System</a> in 6th International Conference on Recent Trends in Image Processing 
 
 #### M.Tech
 1. Intekhab Alam - SC&SS JNU,  Title - Deep Learning Envisioned Accident Detection (Dec'22 - Jun'23)<br>
-2. Gaurav Kumar - SC&SS JNU | Title - Iris Recognition System in the Context of Authentication (Dec'22 - Jun'23)<br>
+2. Gaurav Kumar - SC&SS JNU, Title - Iris Recognition System in the Context of Authentication (Dec'22 - Jun'23)<br>
 
 #### MCA
 1. Salman Khurshid - SC&SS JNU (Dec'22 - Jun'23)<br>
