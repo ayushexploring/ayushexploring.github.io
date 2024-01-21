@@ -11,8 +11,6 @@ With specific focus on:
 <br>
 3. Software Defined Networking
 
-
-
 ---
 
 [comment]: <> (### Projects)
@@ -32,43 +30,43 @@ With specific focus on:
 
 ## Publications
 
-### Magazine
+### Journal/Magazine
 
--> <a href="https://ieee-ims.org/publication/ieee-imm">Vision-Based Accident Anticipation & Detection Using Deep Learning</a>
+1. <a href="#">Vision-Based Accident Anticipation & Detection Using Deep Learning</a> in <a href="https://ieee-ims.org/publication/ieee-imm"> IEEE Instrumentation and Measurement Magazine </a>, Impact Factor - 2.1
 
 ### Conference
 
 [comment]: <> (-> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13239">Stress recognition with multi-modal sensing using bootstrapped ensemble deep learning model</a> (Expert Systems 2023, IF: 2.812))
--> <a href="https://link.springer.com/book/9783031530814">ELA-Conv: Forgery Detection in Digital Images Based on ELA and CNN</a> (Accepted @ RTIP2R 2023)<br>
--> <a href="https://link.springer.com/book/9783031530814">Deep Learning Envisioned Accident Detection
-System</a> (Accepted @ RTIP2R 2023)<br>
--> <a href="https://link.springer.com/book/9783031530814">Iris Recognition System in the Context
-of Authentication</a> (Accepted @ RTIP2R 2023)<br>
+1. <a href="#">ELA-Conv: Forgery Detection in Digital Images Based on ELA and CNN</a> in 6th International Conference on Recent Trends in Image Processing & Pattern Recognition (RTIP2R), 2023<br>
+2. <a href="#">Deep Learning Envisioned Accident Detection
+System</a> in 6th International Conference on Recent Trends in Image Processing & Pattern Recognition (RTIP2R), 2023<br>
+3. <a href="#">Iris Recognition System in the Context
+of Authentication</a> in 6th International Conference on Recent Trends in Image Processing & Pattern Recognition (RTIP2R), 2023<br>
 
 ### Book Chapter
 
--> <a href="https://www.igi-global.com/chapter/facetrace/330919">FaceTrace: Automated Facial Recognition Attendance System</a> @ IGI Global<br>
--> <a href="#">Alzheimer's Disease Classification from Brain MRI Images using Convolutional Neural Networks</a> @ Chapman & Hall/CRC<br>
--> <a href="#">Harnessing Language Models and Machine Learning for Rancorous URL Classification</a> @ CRC Press<br>
--> <a href="#">Comparative Assessment of Machine Learning Methods for Early Prediction of Diseases using Health Indicators</a> @ IGI Global<br>
--> <a href="https://www.igi-global.com/book/sustainable-practices-agriculture-marketing-convergence/331392">Data-Driven Precision Agriculture for Crop Prediction and Fertilizer Recommendation using Machine Learning</a> @ IGI Global<br>
+1. <a href="https://www.igi-global.com/chapter/facetrace/330919">FaceTrace: Automated Facial Recognition Attendance System</a> in Sustainable Science and Intelligent Technologies for Societal Development @ IGI Global<br>
+2. <a href="#">Alzheimer's Disease Classification from Brain MRI Images using Convolutional Neural Networks</a> in AI for Humanitarianism: Fostering Social Change Through Emerging Technologies @ Chapman & Hall/CRC<br>
+3. <a href="#">Harnessing Language Models and Machine Learning for Rancorous URL Classification</a> in Cybersecurity and Data Science Innovations for Sustainable Development of Healthcare, Education, Industry, Cities and Communities @ CRC Press<br>
+4. <a href="#">Comparative Assessment of Machine Learning Methods for Early Prediction of Diseases using Health Indicators</a> in Approaches to Human-Centered AI in Healthcare @ IGI Global<br>
+5. <a href="#">Data-Driven Precision Agriculture for Crop Prediction and Fertilizer Recommendation using Machine Learning</a> in Sustainable Practices for Agriculture and Marketing Convergence @ IGI Global<br>
 
 ---
 
 ### Talks, Honors and Achievements
 
--> Presented a session at FDTP - Ramco Institute of Technology, Tamil Nadu, India on the topic of "DHTML with JavaScript" (Jan'22) at the Anna University approved Faculty Development Training Programme organized by the Department of Computer Science & Engineering, Ramco Institute of Technology, Tamil Nadu, India.
+1. Presented a session at FDTP - Ramco Institute of Technology, Tamil Nadu, India on the topic of "DHTML with JavaScript" (Jan'22) at the Anna University approved Faculty Development Training Programme organized by the Department of Computer Science & Engineering, Ramco Institute of Technology, Tamil Nadu, India.
 
 ---
 
 ### Experience
 
--> Junior Research Fellow (JRF) at <a href="https://www.drdo.gov.in/labs-and-establishments/defence-scientific-information-documentation-centre-desidoc/">Defence Scientific Information & Documentation Centre (DESIDOC), Defence Research & Development Organisation (DRDO)</a>  (June'22 - Sept'22)
+1. Junior Research Fellow (JRF) at <a href="https://www.drdo.gov.in/labs-and-establishments/defence-scientific-information-documentation-centre-desidoc/">Defence Scientific Information & Documentation Centre (DESIDOC), Defence Research & Development Organisation (DRDO)</a>  (June'22 - Sept'22)
 
 ---
 ### Teaching
 
--> Teaching Assistant (TA) at School of Computer and Systems Sciences, Jawaharlal Nehru University for M.Tech & MCA.
+1. Teaching Assistant (TA) at School of Computer and Systems Sciences, Jawaharlal Nehru University for M.Tech & MCA.
 
 ---
 ### Professional Services
@@ -82,14 +80,19 @@ of Authentication</a> (Accepted @ RTIP2R 2023)<br>
 ---
 ### Supervision and Mentorship
 
--> <a href="#">Intekhab Alam</a> (Supervised for M.Tech thesis, School of Computer and Systems Sciences, Jawaharlal Nehru University, Dec'22 - Jun'23)<br>
--> <a href="#">Gaurav Kumar</a> (Supervised for M.Tech thesis, School of Computer and Systems Sciences, Jawaharlal Nehru University, Dec'22 - Jun'23) <br>
--> <a href="#">Salman Khurshid</a> (Supervised for MCA thesis, School of Computer and Systems Sciences, Jawaharlal Nehru University, Dec'22 - Jun'23)<br>
--> <a href="#">Aamir Ansari</a> (Supervised for MCA thesis, School of Computer and Systems Sciences, Jawaharlal Nehru University, Dec'22 - Jun'23)<br>
--> <a href="#">Pooja Sharma</a> (Supervised for B.Tech thesis, Department of Computer Science, Banasthali Vidyapith, Jul'23 - Dec'23) <br>
--> <a href="#">Prabhuta Chaudhary</a> (Supervised for B.Tech thesis, Department of Computer Science, Banasthali Vidyapith, Jul'23 - Dec'23) <br>
--> <a href="#">Amisha Agarwal</a> (Supervised for B.Tech thesis, Department of Computer Science, Banasthali Vidyapith, Jul'23 - Dec'23) <br>
--> <a href="#">Yashi Tiwari</a> (Supervised for B.Tech thesis, Department of Computer Science, Banasthali Vidyapith, Jul'23 - Dec'23) <br>
+#### M.Tech
+1. <a href="#">Intekhab Alam</a> (Supervised for M.Tech thesis, School of Computer and Systems Sciences, Jawaharlal Nehru University, Dec'22 - Jun'23)<br>
+2. <a href="#">Gaurav Kumar</a> (Supervised for M.Tech thesis, School of Computer and Systems Sciences, Jawaharlal Nehru University, Dec'22 - Jun'23) <br>
+
+#### MCA
+1. <a href="#">Salman Khurshid</a> (Supervised for MCA thesis, School of Computer and Systems Sciences, Jawaharlal Nehru University, Dec'22 - Jun'23)<br>
+2. <a href="#">Aamir Ansari</a> (Supervised for MCA thesis, School of Computer and Systems Sciences, Jawaharlal Nehru University, Dec'22 - Jun'23)<br>
+
+#### B.Tech
+1. <a href="#">Pooja Sharma</a> (Supervised for B.Tech thesis, Department of Computer Science, Banasthali Vidyapith, Jul'23 - Dec'23) <br>
+2. <a href="#">Prabhuta Chaudhary</a> (Supervised for B.Tech thesis, Department of Computer Science, Banasthali Vidyapith, Jul'23 - Dec'23) <br>
+3. <a href="#">Amisha Agarwal</a> (Supervised for B.Tech thesis, Department of Computer Science, Banasthali Vidyapith, Jul'23 - Dec'23) <br>
+4. <a href="#">Yashi Tiwari</a> (Supervised for B.Tech thesis, Department of Computer Science, Banasthali Vidyapith, Jul'23 - Dec'23) <br>
 
 
 
