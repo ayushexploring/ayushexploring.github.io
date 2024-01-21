@@ -40,52 +40,56 @@ With specific focus on:
 
 [comment]: <> (-> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13239">Stress recognition with multi-modal sensing using bootstrapped ensemble deep learning model</a> (Expert Systems 2023, IF: 2.812))
 -> <a href="https://link.springer.com/book/9783031530814">ELA-Conv: Forgery Detection in Digital Images Based on ELA and CNN</a> (Accepted @ RTIP2R 2023)
+-> <a href="https://link.springer.com/book/9783031530814">Deep Learning Envisioned Accident Detection
+System</a> (Accepted @ RTIP2R 2023)
+-> <a href="https://link.springer.com/book/9783031530814">Iris Recognition System in the Context
+of Authentication</a> (Accepted @ RTIP2R 2023)
 
 ### Book Chapter
 
--> <a href="https://www.igi-global.com/chapter/facetrace/330919">FaceTrace: Automated Facial Recognition Attendance System</a>
+-> <a href="https://www.igi-global.com/chapter/facetrace/330919">FaceTrace: Automated Facial Recognition Attendance System</a> @ IGI Global
+-> <a href="#">Alzheimer's Disease Classification from Brain MRI Images using Convolutional Neural Networks</a> @ Chapman & Hall/CRC
+-> <a href="#">Harnessing Language Models and Machine Learning for Rancorous URL Classification</a> @ CRC Press
+-> <a href="#">Comparative Assessment of Machine Learning Methods for Early Prediction of Diseases using Health Indicators</a> @ IGI Global
+-> <a href="https://www.igi-global.com/book/sustainable-practices-agriculture-marketing-convergence/331392">Data-Driven Precision Agriculture for Crop Prediction and Fertilizer Recommendation using Machine Learning</a> @ IGI Global
 
 ---
 
 ### Talks, Honors and Achievements
 
--> Presented a session at FDP - Anil Neerukonda Institute of technology and sciences, Visakhapatnam, India on the topic of Foundations and Applications of AI in Healthcare with a specific focus on stress recognition through wearable sensors with the application of TinyML (Jan'23).
+-> Presented a session at FDTP - Ramco Institute of Technology, Tamil Nadu, India on the topic of "DHTML with JavaScript" (Jan'22) at the Anna University approved Faculty Development Training Programme organized by the Department of Computer Science & Engineering, Ramco Institute of Technology, Tamil Nadu, India.
 
 ---
 
 ### Experience
 
--> Research Intern at <a href="https://aiisc.ai/">AI Institute at University of South Carolina</a>  (Dec'21 - June'22)
+-> Junior Research Fellow (JRF) at <a href="https://www.drdo.gov.in/labs-and-establishments/defence-scientific-information-documentation-centre-desidoc/">Defence Scientific Information & Documentation Centre (DESIDOC), Defence Research & Development Organisation (DRDO)</a>  (June'22 - Sept'22)
 
 ---
 ### Teaching
 
--> Teaching Assistant (TA) at Institute of Computer Science, University of Tartu, Estonia for Business Data Analytics Course (Spring 2023, Spring 2022)
+-> Teaching Assistant (TA) at School of Computer and Systems Sciences, Jawaharlal Nehru University for M.Tech & MCA.
 
 ---
 ### Professional Services
--> Reviewer for ASONAM 2023
+[comment]: <> (-> Reviewer for ASONAM 2023)
 
 ---
 ### Volunteering
 
--> Volunteered at  <a href="https://www.knowledgegraph.tech/kgc2021/">The Knowledge Graph Conference (KGC) 2021</a>
+[comment]: <> (-> Volunteered at <a href="https://www.knowledgegraph.tech/kgc2021/">The Knowledge Graph Conference (KGC) 2021</a>)
 
 ---
 ### Supervision and Mentorship
-#### Supervision
--> <a href="https://www.linkedin.com/in/reena-vaziri-834102a7/">Reena Vaziri</a> (Supervised for Master's Thesis, University of Tartu, Estonia, Dec'22 - Jun'23) 
-#### Mentorship
--> <a href="https://www.linkedin.com/in/ankit-sharma-dev/">Ankit Sharma</a> (IIT Ropar, India, March'23 - May'23) 
-<br>
--> <a href="https://www.linkedin.com/in/shubhamsingh0512/">Shubham Singh</a> (Birla Institute of Technology, Mesra, India, May'23- ) 
-<br>
--> <a href="https://www.linkedin.com/in/ankita-das-77030016b/">Ankita Das</a> (IIIT Guwahati, India, June'23 - ) 
-<br>
--> <a href="https://www.linkedin.com/in/devyani-koshal-392428276/">Devyani Koshal</a> (IIIT Delhi, India, August'23 - ) 
-<br>
--> Panchal Nayak (VIT Vellore, India, September'23 - ) 
 
+-> <a href="#">Intekhab Alam</a> (Supervised for M.Tech thesis, School of Computer and Systems Sciences, Jawaharlal Nehru University, Dec'22 - Jun'23)
+-> <a href="#">Gaurav Kumar</a> (Supervised for M.Tech thesis, School of Computer and Systems Sciences, Jawaharlal Nehru University, Dec'22 - Jun'23) 
+-> <a href="#">Salman Khurshid</a> (Supervised for MCA thesis, School of Computer and Systems Sciences, Jawaharlal Nehru University, Dec'22 - Jun'23)
+-> <a href="#">Aamir Ansari</a> (Supervised for MCA thesis, School of Computer and Systems Sciences, Jawaharlal Nehru University, Dec'22 - Jun'23)
+-> <a href="#">Pooja Sharma</a> (Supervised for B.Tech thesis, Department of Computer Science, Banasthali Vidyapith, Jul'23 - Dec'23) 
+-> <a href="#">Prabhuta Chaudhary</a> (Supervised for B.Tech thesis, Department of Computer Science, Banasthali Vidyapith, Jul'23 - Dec'23) 
+-> <a href="#">Amisha Agarwal</a> (Supervised for B.Tech thesis, Department of Computer Science, Banasthali Vidyapith, Jul'23 - Dec'23) 
+-> <a href="#">Yashi Tiwari</a> (Supervised for B.Tech thesis, Department of Computer Science, Banasthali Vidyapith, Jul'23 - Dec'23) 
 
 
 
