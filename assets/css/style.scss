@@ -2,6 +2,22 @@
 ---
 
 @import "{{ site.theme }}";
+a {
+    color: #267CB9;
+    text-decoration: none
+}
+
 a:hover,a:focus {
-    color: #003d5c;
+    color: #069;
+}
+
+a small {
+    font-size: 11px;
+    color: #777;
+    margin-top: -0.3em;
+    display: block
+}
+
+a:hover small {
+    color: #777
 }
