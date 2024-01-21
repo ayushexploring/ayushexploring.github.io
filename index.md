@@ -39,19 +39,19 @@ With specific focus on:
 ### Conference
 
 [comment]: <> (-> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13239">Stress recognition with multi-modal sensing using bootstrapped ensemble deep learning model</a> (Expert Systems 2023, IF: 2.812))
--> <a href="https://link.springer.com/book/9783031530814">ELA-Conv: Forgery Detection in Digital Images Based on ELA and CNN</a> (Accepted @ RTIP2R 2023)
+-> <a href="https://link.springer.com/book/9783031530814">ELA-Conv: Forgery Detection in Digital Images Based on ELA and CNN</a> (Accepted @ RTIP2R 2023)<br>
 -> <a href="https://link.springer.com/book/9783031530814">Deep Learning Envisioned Accident Detection
-System</a> (Accepted @ RTIP2R 2023)
+System</a> (Accepted @ RTIP2R 2023)<br>
 -> <a href="https://link.springer.com/book/9783031530814">Iris Recognition System in the Context
-of Authentication</a> (Accepted @ RTIP2R 2023)
+of Authentication</a> (Accepted @ RTIP2R 2023)<br>
 
 ### Book Chapter
 
--> <a href="https://www.igi-global.com/chapter/facetrace/330919">FaceTrace: Automated Facial Recognition Attendance System</a> @ IGI Global
--> <a href="#">Alzheimer's Disease Classification from Brain MRI Images using Convolutional Neural Networks</a> @ Chapman & Hall/CRC
--> <a href="#">Harnessing Language Models and Machine Learning for Rancorous URL Classification</a> @ CRC Press
--> <a href="#">Comparative Assessment of Machine Learning Methods for Early Prediction of Diseases using Health Indicators</a> @ IGI Global
--> <a href="https://www.igi-global.com/book/sustainable-practices-agriculture-marketing-convergence/331392">Data-Driven Precision Agriculture for Crop Prediction and Fertilizer Recommendation using Machine Learning</a> @ IGI Global
+-> <a href="https://www.igi-global.com/chapter/facetrace/330919">FaceTrace: Automated Facial Recognition Attendance System</a> @ IGI Global<br>
+-> <a href="#">Alzheimer's Disease Classification from Brain MRI Images using Convolutional Neural Networks</a> @ Chapman & Hall/CRC<br>
+-> <a href="#">Harnessing Language Models and Machine Learning for Rancorous URL Classification</a> @ CRC Press<br>
+-> <a href="#">Comparative Assessment of Machine Learning Methods for Early Prediction of Diseases using Health Indicators</a> @ IGI Global<br>
+-> <a href="https://www.igi-global.com/book/sustainable-practices-agriculture-marketing-convergence/331392">Data-Driven Precision Agriculture for Crop Prediction and Fertilizer Recommendation using Machine Learning</a> @ IGI Global<br>
 
 ---
 
@@ -82,14 +82,14 @@ of Authentication</a> (Accepted @ RTIP2R 2023)
 ---
 ### Supervision and Mentorship
 
--> <a href="#">Intekhab Alam</a> (Supervised for M.Tech thesis, School of Computer and Systems Sciences, Jawaharlal Nehru University, Dec'22 - Jun'23)
--> <a href="#">Gaurav Kumar</a> (Supervised for M.Tech thesis, School of Computer and Systems Sciences, Jawaharlal Nehru University, Dec'22 - Jun'23) 
--> <a href="#">Salman Khurshid</a> (Supervised for MCA thesis, School of Computer and Systems Sciences, Jawaharlal Nehru University, Dec'22 - Jun'23)
--> <a href="#">Aamir Ansari</a> (Supervised for MCA thesis, School of Computer and Systems Sciences, Jawaharlal Nehru University, Dec'22 - Jun'23)
--> <a href="#">Pooja Sharma</a> (Supervised for B.Tech thesis, Department of Computer Science, Banasthali Vidyapith, Jul'23 - Dec'23) 
--> <a href="#">Prabhuta Chaudhary</a> (Supervised for B.Tech thesis, Department of Computer Science, Banasthali Vidyapith, Jul'23 - Dec'23) 
--> <a href="#">Amisha Agarwal</a> (Supervised for B.Tech thesis, Department of Computer Science, Banasthali Vidyapith, Jul'23 - Dec'23) 
--> <a href="#">Yashi Tiwari</a> (Supervised for B.Tech thesis, Department of Computer Science, Banasthali Vidyapith, Jul'23 - Dec'23) 
+-> <a href="#">Intekhab Alam</a> (Supervised for M.Tech thesis, School of Computer and Systems Sciences, Jawaharlal Nehru University, Dec'22 - Jun'23)<br>
+-> <a href="#">Gaurav Kumar</a> (Supervised for M.Tech thesis, School of Computer and Systems Sciences, Jawaharlal Nehru University, Dec'22 - Jun'23) <br>
+-> <a href="#">Salman Khurshid</a> (Supervised for MCA thesis, School of Computer and Systems Sciences, Jawaharlal Nehru University, Dec'22 - Jun'23)<br>
+-> <a href="#">Aamir Ansari</a> (Supervised for MCA thesis, School of Computer and Systems Sciences, Jawaharlal Nehru University, Dec'22 - Jun'23)<br>
+-> <a href="#">Pooja Sharma</a> (Supervised for B.Tech thesis, Department of Computer Science, Banasthali Vidyapith, Jul'23 - Dec'23) <br>
+-> <a href="#">Prabhuta Chaudhary</a> (Supervised for B.Tech thesis, Department of Computer Science, Banasthali Vidyapith, Jul'23 - Dec'23) <br>
+-> <a href="#">Amisha Agarwal</a> (Supervised for B.Tech thesis, Department of Computer Science, Banasthali Vidyapith, Jul'23 - Dec'23) <br>
+-> <a href="#">Yashi Tiwari</a> (Supervised for B.Tech thesis, Department of Computer Science, Banasthali Vidyapith, Jul'23 - Dec'23) <br>
 
 
 
