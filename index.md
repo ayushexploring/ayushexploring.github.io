@@ -23,8 +23,8 @@ My reserach interests include Cyber Security, Machine Learning and Deep Learning
 
 ## Education
 1. Ph.D (2023-Present) in Computer Science from Jawaharlal Nehru University, New Delhi, India.
-2. M.Tech (2020-2022) in Computer Science & Technology from Jawaharlal Nehru University, New Delhi, India. GRADE-86.6%
-3. B.Tech (2016-2020) in Computer Science & Engineering from Guru Gobind Singh Indraprastha University, New Delhi, India. GRADE-7.13
+2. M.Tech (2020-2022) in Computer Science & Technology from Jawaharlal Nehru University, New Delhi, India. GRADE-8.66/10
+3. B.Tech (2016-2020) in Computer Science & Engineering from Guru Gobind Singh Indraprastha University, New Delhi, India. GRADE-7.13/10
 
 ## Publications
 
