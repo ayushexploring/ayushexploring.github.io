@@ -2,23 +2,3 @@
 ---
 
 @import "{{ site.theme }}";
-a {
-    color: #267CB9;
-    text-decoration: none
-}
-
-a:hover,a:focus {
-    color: #069;
-    font-weight: normal
-}
-
-a small {
-    font-size: 11px;
-    color: #777;
-    margin-top: -0.3em;
-    display: block
-}
-
-a:hover small {
-    color: #777
-}

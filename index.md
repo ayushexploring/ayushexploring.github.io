@@ -1,15 +1,8 @@
 
 ## About Me
 
-Hello! This is Ayush Verma. I am currently a Ph.D. Scholar at <a href="https://jnu.ac.in/scss/">School of Computer and Systems Sciences, Jawaharlal Nehru University</a>, New Delhi.
-My reserach interests include Cyber Security & Deep Learning. 
-<br>
-With specific focus on:
-1. Denial-of-Service (DoS) attacks
-<br>
-2. Distributed Denial-of-Service (DDoS) attacks
-<br>
-3. Software Defined Networking
+Hello! This is Ayush Verma. I am currently a Ph.D. Scholar at <a href="https://jnu.ac.in/scss/">School of Computer and Systems Sciences, Jawaharlal Nehru University</a>, and I am very fortunate to be advised by <a href="https://scholar.google.com/citations?user=JB9wY5YAAAAJ&hl=en">Prof. Manju Khari</a>.
+My reserach interests include Cyber Security, Machine Learning and Deep Learning. 
 
 ---
 
@@ -27,6 +20,11 @@ With specific focus on:
 [comment]: <> (<img src="images/dummy_thumbnail.jpg?raw=true"/>)
 
 [comment]: <> (---)
+
+## Education
+1. Ph.D (2023-Present) in Computer Science from Jawaharlal Nehru University, New Delhi, India.
+2. M.Tech (2020-2022) in Computer Science & Technology from Jawaharlal Nehru University, New Delhi, India. GRADE-86.6%
+3. B.Tech (2016-2020) in Computer Science & Engineering from Guru Gobind Singh Indraprastha University, New Delhi, India. GRADE-7.13
 
 ## Publications
 
@@ -55,6 +53,7 @@ System</a> in 6th International Conference on Recent Trends in Image Processing 
 ### Talks, Honors and Achievements
 
 1. Presented a session at FDTP - Ramco Institute of Technology, Tamil Nadu, India on the topic of "DHTML with JavaScript" (Jan'22) at the Anna University approved Faculty Development Training Programme organized by the Department of Computer Science & Engineering, Ramco Institute of Technology, Tamil Nadu, India.
+2. UGC NET-JRF (June 2021)
 
 ---
 
