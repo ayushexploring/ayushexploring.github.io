@@ -1,7 +1,7 @@
 
 ## About Me
 
-Hello! This is Ayush Verma. I am currently a Ph.D. Scholar at <a href="https://jnu.ac.in/scss/">School of Computer and Systems Sciences, Jawaharlal Nehru University</a>, and I am very fortunate to be advised by <a href="https://scholar.google.com/citations?user=JB9wY5YAAAAJ&hl=en">Prof. Manju Khari</a>.
+Hello! This is Ayush Verma. I am currently a Ph.D. Scholar at <a href="https://jnu.ac.in/scss/" target="_blank">School of Computer and Systems Sciences, Jawaharlal Nehru University</a>, and I am very fortunate to be advised by <a href="https://scholar.google.com/citations?user=JB9wY5YAAAAJ&hl=en" target="_blank">Prof. Manju Khari</a>.
 My reserach interests include Cyber Security, Machine Learning and Deep Learning. 
 
 ---
@@ -35,13 +35,13 @@ My reserach interests include Cyber Security, Machine Learning and Deep Learning
 ### Conference
 
 [comment]: <> (-> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13239">Stress recognition with multi-modal sensing using bootstrapped ensemble deep learning model</a> (Expert Systems 2023, IF: 2.812))
-1. Verma, A., Pandey, P., Khari, M. (2024). ELA-Conv: Forgery Detection in Digital Images Based on ELA and CNN. In: Santosh, K., et al. Recent Trends in Image Processing and Pattern Recognition. RTIP2R 2023. Communications in Computer and Information Science, vol 2026. Springer, Cham. <a href="https://doi.org/10.1007/978-3-031-53082-1_18">https://doi.org/10.1007/978-3-031-53082-1_18</a><br>
-2. Alam, I., Verma, A., Khari, M. (2024). Deep Learning Envisioned Accident Detection System. In: Santosh, K., et al. Recent Trends in Image Processing and Pattern Recognition. RTIP2R 2023. Communications in Computer and Information Science, vol 2026. Springer, Cham. <a href="https://doi.org/10.1007/978-3-031-53082-1_3">https://doi.org/10.1007/978-3-031-53082-1_3</a><br>
-3. Kumar, G., Gulati, A., Verma, A., Khari, M., Tyagi, G. (2024). Iris Recognition System in the Context of Authentication. In: Santosh, K., et al. Recent Trends in Image Processing and Pattern Recognition. RTIP2R 2023. Communications in Computer and Information Science, vol 2026. Springer, Cham. <a href="https://doi.org/10.1007/978-3-031-53082-1_28">https://doi.org/10.1007/978-3-031-53082-1_28</a><br>
+1. Verma, A., Pandey, P., Khari, M. (2024). ELA-Conv: Forgery Detection in Digital Images Based on ELA and CNN. In: Santosh, K., et al. Recent Trends in Image Processing and Pattern Recognition. RTIP2R 2023. Communications in Computer and Information Science, vol 2026. Springer, Cham. <a href="https://doi.org/10.1007/978-3-031-53082-1_18" target="_blank">https://doi.org/10.1007/978-3-031-53082-1_18</a><br>
+2. Alam, I., Verma, A., Khari, M. (2024). Deep Learning Envisioned Accident Detection System. In: Santosh, K., et al. Recent Trends in Image Processing and Pattern Recognition. RTIP2R 2023. Communications in Computer and Information Science, vol 2026. Springer, Cham. <a href="https://doi.org/10.1007/978-3-031-53082-1_3" target="_blank">https://doi.org/10.1007/978-3-031-53082-1_3</a><br>
+3. Kumar, G., Gulati, A., Verma, A., Khari, M., Tyagi, G. (2024). Iris Recognition System in the Context of Authentication. In: Santosh, K., et al. Recent Trends in Image Processing and Pattern Recognition. RTIP2R 2023. Communications in Computer and Information Science, vol 2026. Springer, Cham. <a href="https://doi.org/10.1007/978-3-031-53082-1_28" target="_blank">https://doi.org/10.1007/978-3-031-53082-1_28</a><br>
 
 ### Book Chapter
 
-1. Khurshid, S., Ansari, A. N., Verma, A. K., Singh, P. P., & Khari, M. (2024). FaceTrace. In Sustainable Science and Intelligent Technologies for Societal Development (pp. 178–193). <a href="https://doi.org/10.4018/979-8-3693-1186-8.ch011">https://doi.org/10.4018/979-8-3693-1186-8.ch011</a><br>
+1. Khurshid, S., Ansari, A. N., Verma, A. K., Singh, P. P., & Khari, M. (2024). FaceTrace. In Sustainable Science and Intelligent Technologies for Societal Development (pp. 178–193). <a href="https://doi.org/10.4018/979-8-3693-1186-8.ch011" target="_blank">https://doi.org/10.4018/979-8-3693-1186-8.ch011</a><br>
 2. Alzheimer's Disease Classification from Brain MRI Images using Convolutional Neural Networks in AI for Humanitarianism: Fostering Social Change Through Emerging Technologies @ Chapman & Hall/CRC<br>
 3. Harnessing Language Models and Machine Learning for Rancorous URL Classification in Cybersecurity and Data Science Innovations for Sustainable Development of Healthcare, Education, Industry, Cities and Communities @ CRC Press<br>
 4. Comparative Assessment of Machine Learning Methods for Early Prediction of Diseases using Health Indicators in Approaches to Human-Centered AI in Healthcare @ IGI Global<br>
