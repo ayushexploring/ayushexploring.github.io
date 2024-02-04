@@ -30,23 +30,22 @@ My reserach interests include Cyber Security, Machine Learning and Deep Learning
 
 ### Journal/Magazine
 
-1. <a href="#">Vision-Based Accident Anticipation & Detection Using Deep Learning</a> in <a href="https://ieee-ims.org/publication/ieee-imm"> IEEE Instrumentation and Measurement Magazine </a>, Impact Factor - 2.1
+1. Vision-Based Accident Anticipation & Detection Using Deep Learning in IEEE Instrumentation and Measurement Magazine, Impact Factor - 2.1
 
 ### Conference
 
 [comment]: <> (-> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13239">Stress recognition with multi-modal sensing using bootstrapped ensemble deep learning model</a> (Expert Systems 2023, IF: 2.812))
-1. <a href="#">ELA-Conv: Forgery Detection in Digital Images Based on ELA and CNN</a> in 6th International Conference on Recent Trends in Image Processing & Pattern Recognition (RTIP2R), 2023<br>
-2. <a href="#">Deep Learning Envisioned Accident Detection
-System</a> in 6th International Conference on Recent Trends in Image Processing & Pattern Recognition (RTIP2R), 2023<br>
-3. <a href="#">Iris Recognition System in the Context of Authentication</a> in 6th International Conference on Recent Trends in Image Processing & Pattern Recognition (RTIP2R), 2023<br>
+1. Verma, A., Pandey, P., Khari, M. (2024). ELA-Conv: Forgery Detection in Digital Images Based on ELA and CNN. In: Santosh, K., et al. Recent Trends in Image Processing and Pattern Recognition. RTIP2R 2023. Communications in Computer and Information Science, vol 2026. Springer, Cham. <a href="https://doi.org/10.1007/978-3-031-53082-1_18">https://doi.org/10.1007/978-3-031-53082-1_18</a><br>
+2. Alam, I., Verma, A., Khari, M. (2024). Deep Learning Envisioned Accident Detection System. In: Santosh, K., et al. Recent Trends in Image Processing and Pattern Recognition. RTIP2R 2023. Communications in Computer and Information Science, vol 2026. Springer, Cham. <a href="https://doi.org/10.1007/978-3-031-53082-1_3">https://doi.org/10.1007/978-3-031-53082-1_3</a><br>
+3. Kumar, G., Gulati, A., Verma, A., Khari, M., Tyagi, G. (2024). Iris Recognition System in the Context of Authentication. In: Santosh, K., et al. Recent Trends in Image Processing and Pattern Recognition. RTIP2R 2023. Communications in Computer and Information Science, vol 2026. Springer, Cham. <a href="https://doi.org/10.1007/978-3-031-53082-1_28">https://doi.org/10.1007/978-3-031-53082-1_28</a><br>
 
 ### Book Chapter
 
-1. <a href="https://www.igi-global.com/chapter/facetrace/330919">FaceTrace: Automated Facial Recognition Attendance System</a> in Sustainable Science and Intelligent Technologies for Societal Development @ IGI Global<br>
-2. <a href="#">Alzheimer's Disease Classification from Brain MRI Images using Convolutional Neural Networks</a> in AI for Humanitarianism: Fostering Social Change Through Emerging Technologies @ Chapman & Hall/CRC<br>
-3. <a href="#">Harnessing Language Models and Machine Learning for Rancorous URL Classification</a> in Cybersecurity and Data Science Innovations for Sustainable Development of Healthcare, Education, Industry, Cities and Communities @ CRC Press<br>
-4. <a href="#">Comparative Assessment of Machine Learning Methods for Early Prediction of Diseases using Health Indicators</a> in Approaches to Human-Centered AI in Healthcare @ IGI Global<br>
-5. <a href="#">Data-Driven Precision Agriculture for Crop Prediction and Fertilizer Recommendation using Machine Learning</a> in Sustainable Practices for Agriculture and Marketing Convergence @ IGI Global<br>
+1. Khurshid, S., Ansari, A. N., Verma, A. K., Singh, P. P., & Khari, M. (2024). FaceTrace. In Sustainable Science and Intelligent Technologies for Societal Development (pp. 178–193). <a href="https://doi.org/10.4018/979-8-3693-1186-8.ch011">https://doi.org/10.4018/979-8-3693-1186-8.ch011</a><br>
+2. Alzheimer's Disease Classification from Brain MRI Images using Convolutional Neural Networks in AI for Humanitarianism: Fostering Social Change Through Emerging Technologies @ Chapman & Hall/CRC<br>
+3. Harnessing Language Models and Machine Learning for Rancorous URL Classification in Cybersecurity and Data Science Innovations for Sustainable Development of Healthcare, Education, Industry, Cities and Communities @ CRC Press<br>
+4. Comparative Assessment of Machine Learning Methods for Early Prediction of Diseases using Health Indicators in Approaches to Human-Centered AI in Healthcare @ IGI Global<br>
+5. Data-Driven Precision Agriculture for Crop Prediction and Fertilizer Recommendation using Machine Learning in Sustainable Practices for Agriculture and Marketing Convergence @ IGI Global<br>
 
 ---
 
@@ -59,7 +58,7 @@ System</a> in 6th International Conference on Recent Trends in Image Processing 
 
 ### Experience
 
-1. Junior Research Fellow (JRF) at <a href="https://www.drdo.gov.in/labs-and-establishments/defence-scientific-information-documentation-centre-desidoc/">Defence Scientific Information & Documentation Centre (DESIDOC), Defence Research & Development Organisation (DRDO)</a>  (June'22 - Sept'22)
+1. Junior Research Fellow (JRF) at Defence Scientific Information & Documentation Centre (DESIDOC), Defence Research & Development Organisation (DRDO) (June'22 - Sept'22)
 
 ---
 ### Teaching
