@@ -30,7 +30,7 @@ My reserach interests include Cyber Security, Machine Learning and Deep Learning
 
 ### Journal/Magazine
 
-1. Vision-Based Accident Anticipation & Detection Using Deep Learning in IEEE Instrumentation and Measurement Magazine, Impact Factor - 2.1
+1. <b>Verma, A.</b>, & Khari, M. (2024). Vision-Based accident anticipation and detection using deep learning. IEEE Instrumentation & Measurement Magazine, 27(3), 22–29. <a href="https://doi.org/10.1109/mim.2024.10505198" target="_blank">https://doi.org/10.1109/mim.2024.10505198</a><br>
 
 ### Conference
 
