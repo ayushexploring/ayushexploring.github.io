@@ -1,8 +1,8 @@
 
 ## About Me
 
-Hello! This is Ayush Verma. I am currently a Ph.D. Scholar at <a href="https://jnu.ac.in/scss/" target="_blank">School of Computer and Systems Sciences, Jawaharlal Nehru University</a>, and I am very fortunate to be advised by <a href="https://scholar.google.com/citations?user=JB9wY5YAAAAJ&hl=en" target="_blank">Prof. Manju Khari</a>.
-My reserach interests include Cyber Security, Machine Learning and Deep Learning. 
+Hello! This is Ayush Verma. I am currently working as Scientist-'B'/Assistant Director at Software Technology Parks of India, Ministry of Electronics and Information Technology (MeitY), Government of India and a Ph.D. Scholar at <a href="https://jnu.ac.in/scss/" target="_blank">School of Computer and Systems Sciences, Jawaharlal Nehru University</a>, and I am very fortunate to be advised by <a href="https://scholar.google.com/citations?user=JB9wY5YAAAAJ&hl=en" target="_blank">Prof. Manju Khari</a>.
+My research interests include Cyber Security, Machine Learning and Deep Learning. 
 
 ---
 
