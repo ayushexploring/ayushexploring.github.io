@@ -21,11 +21,17 @@ My research interests include Cyber Security, Machine Learning and Deep Learning
 
 [comment]: <> (---)
 
+## Experience
+1. Scientist-B/Assistant Director at Software Technology Parks of India (STPI), Ministry of Electronics and Information Technology (MeitY), Government of India (May'24 - Present)
+2. Junior Research Fellow (JRF) at Defence Scientific Information & Documentation Centre (DESIDOC), Defence Research & Development Organisation (DRDO) (June'22 - Sept'22)
+
+---
 ## Education
 1. Ph.D (2023-Present) in Computer Science from Jawaharlal Nehru University, New Delhi, India.
 2. M.Tech (2020-2022) in Computer Science & Technology from Jawaharlal Nehru University, New Delhi, India. GRADE-8.66/10
 3. B.Tech (2016-2020) in Computer Science & Engineering from Guru Gobind Singh Indraprastha University, New Delhi, India. GRADE-7.13/10
 
+---
 ## Publications
 
 ### Journal/Magazine
@@ -53,12 +59,6 @@ My research interests include Cyber Security, Machine Learning and Deep Learning
 
 1. Presented a session at FDTP - Ramco Institute of Technology, Tamil Nadu, India on the topic of "DHTML with JavaScript" (Jan'22) at the Anna University approved Faculty Development Training Programme organized by the Department of Computer Science & Engineering, Ramco Institute of Technology, Tamil Nadu, India.
 2. UGC NET-JRF (June 2021)
-
----
-
-### Experience
-
-1. Junior Research Fellow (JRF) at Defence Scientific Information & Documentation Centre (DESIDOC), Defence Research & Development Organisation (DRDO) (June'22 - Sept'22)
 
 ---
 ### Teaching
