@@ -51,7 +51,7 @@ My research interests include Cyber Security, Machine Learning and Deep Learning
 2. Agarwal, A., <b>Verma, A.</b>, & Khari, M. (2024). Comparative assessment of machine learning methods for early prediction of diseases using health indicators. In Advances in medical technologies and clinical practice book series (pp. 160–186). <a href="https://doi.org/10.4018/979-8-3693-2238-3.ch007" target="_blank">https://doi.org/10.4018/979-8-3693-2238-3.ch007</a><br>
 3. Tiwari, Y., <b>Verma, A.</b>, & Khari, M. (2024). Data-Driven Precision Agriculture for crop prediction and fertilizer recommendation using machine learning. In Practice, progress, and proficiency in sustainability (pp. 167–183). <a href="https://doi.org/10.4018/979-8-3693-4864-2.ch009" target="_blank">https://doi.org/10.4018/979-8-3693-4864-2.ch009</a><br>
 4. Sharma, P., <b>Verma, A.</b>, & Khari, M. (2025). Advancing humanitarian efforts in Alzheimer’s diagnosis using AI and MRI technology. In CRC Press eBooks (pp. 139–154). <a href="https://doi.org/10.1201/9781003479109-11" target="_blank">https://doi.org/10.1201/9781003479109-11</a><br>
-5. Chaudhary, P., <b>Verma, A.</b>, & Khari, M. (2024). Harnessing language models and machine learning for rancorous URL classification. In CRC Press eBooks (pp. 273–288). <a gref="https://doi.org/10.1201/9781032711300-19" target="_blank">https://doi.org/10.1201/9781032711300-19</a><br>
+5. Chaudhary, P., <b>Verma, A.</b>, & Khari, M. (2024). Harnessing language models and machine learning for rancorous URL classification. In CRC Press eBooks (pp. 273–288). <a href="https://doi.org/10.1201/9781032711300-19" target="_blank">https://doi.org/10.1201/9781032711300-19</a><br>
 
 ---
 
