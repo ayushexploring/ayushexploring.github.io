@@ -50,8 +50,8 @@ My research interests include Cyber Security, Machine Learning and Deep Learning
 1. Khurshid, S., Ansari, A. N., <b>Verma, A.</b>, Singh, P. P., & Khari, M. (2024). FaceTrace. In Sustainable Science and Intelligent Technologies for Societal Development (pp. 178–193). <a href="https://doi.org/10.4018/979-8-3693-1186-8.ch011" target="_blank">https://doi.org/10.4018/979-8-3693-1186-8.ch011</a><br>
 2. Agarwal, A., <b>Verma, A.</b>, & Khari, M. (2024). Comparative assessment of machine learning methods for early prediction of diseases using health indicators. In Advances in medical technologies and clinical practice book series (pp. 160–186). <a href="https://doi.org/10.4018/979-8-3693-2238-3.ch007" target="_blank">https://doi.org/10.4018/979-8-3693-2238-3.ch007</a><br>
 3. Tiwari, Y., <b>Verma, A.</b>, & Khari, M. (2024). Data-Driven Precision Agriculture for crop prediction and fertilizer recommendation using machine learning. In Practice, progress, and proficiency in sustainability (pp. 167–183). <a href="https://doi.org/10.4018/979-8-3693-4864-2.ch009" target="_blank">https://doi.org/10.4018/979-8-3693-4864-2.ch009</a><br>
-4. Alzheimer's Disease Classification from Brain MRI Images using Convolutional Neural Networks in AI for Humanitarianism: Fostering Social Change Through Emerging Technologies @ Chapman & Hall/CRC<br>
-5. Harnessing Language Models and Machine Learning for Rancorous URL Classification in Cybersecurity and Data Science Innovations for Sustainable Development of Healthcare, Education, Industry, Cities and Communities @ CRC Press<br>
+4. Sharma, P., <b>Verma, A.</b>, & Khari, M. (2025). Advancing humanitarian efforts in Alzheimer’s diagnosis using AI and MRI technology. In CRC Press eBooks (pp. 139–154). <a href="https://doi.org/10.1201/9781003479109-11" target="_blank">https://doi.org/10.1201/9781003479109-11</a><br>
+5. Chaudhary, P., <b>Verma, A.</b>, & Khari, M. (2024). Harnessing language models and machine learning for rancorous URL classification. In CRC Press eBooks (pp. 273–288). <a href="https://doi.org/10.1201/9781032711300-19" target="_blank">https://doi.org/10.1201/9781032711300-19</a><br>
 
 ---
 
@@ -59,6 +59,7 @@ My research interests include Cyber Security, Machine Learning and Deep Learning
 
 1. Presented a session at FDTP - Ramco Institute of Technology, Tamil Nadu, India on the topic of "DHTML with JavaScript" (Jan'22) at the Anna University approved Faculty Development Training Programme organized by the Department of Computer Science & Engineering, Ramco Institute of Technology, Tamil Nadu, India.
 2. UGC NET-JRF (June 2021)
+3. Best Paper Certificate - International Conference on Data Mining and Information Security 2024. Conference proceedings published in Springer (LNNS Series).
 
 ---
 ### Teaching
@@ -80,6 +81,7 @@ My research interests include Cyber Security, Machine Learning and Deep Learning
 #### M.Tech
 1. Intekhab Alam - SC&SS JNU,  Title - Deep Learning Envisioned Accident Detection (Dec'22 - Jun'23)<br>
 2. Gaurav Kumar - SC&SS JNU, Title - Iris Recognition System in the Context of Authentication (Dec'22 - Jun'23)<br>
+3. Abhishek Kumar - SC&SS JNU, Title - CNN-LSTM synergised framework for enhanced DDoS attack detection on SDN (Dec'23 - Jun'24)
 
 #### MCA
 1. Salman Khurshid - SC&SS JNU (Dec'22 - Jun'23)<br>
