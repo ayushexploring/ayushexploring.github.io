@@ -293,6 +293,54 @@
         "Healthcare",
         "Deep Learning"
       ]
+    },
+    {
+      "type": "Conference",
+      "year": 2025,
+      "title": "CNN-LSTM Synergized Framework for Enhanced DDoS Attack Detection on SDN",
+      "authors": [
+        "Abhishek",
+        "Kumar, S.",
+        "Singh, R.",
+        "Verma, A.",
+        "Khari, M."
+      ],
+      "venue": "International Conference on Data Mining and Information Security (ICDMIS 2024)",
+      "details": "pp. 409-423",
+      "doi": "http://doi.org/10.1007/978-981-96-6060-5_31",
+      "citations": 0,
+      "tags": []
+    },
+    {
+      "type": "Conference",
+      "year": 2026,
+      "title": "Statistical Feature Fusion Driven Enhanced Network Intrusion Detection",
+      "authors": [
+        "Verma, A.",
+        "Khari, M."
+      ],
+      "venue": "International Conference on Recent Advancement and Modernization in Engineering (RAMSITA-2026)",
+      "details": "pp. 280-291",
+      "doi": "https://doi.org/10.2991/978-94-6239-678-4_22",
+      "citations": 0,
+      "tags": []
+    },
+    {
+      "type": "Book Chapter",
+      "year": 2026,
+      "title": "Analysis of Security Challenges in Next-Generation Wireless Networks",
+      "authors": [
+        "Yadav, V.",
+        "Khari, M.",
+        "Kumar, K.",
+        "Alam, I.",
+        "Verma, A."
+      ],
+      "venue": "Energy Efficient IoT-Based Wireless Sensor Network",
+      "details": "557-590",
+      "doi": "https://doi.org/10.1002/9781394314751.ch21",
+      "citations": 0,
+      "tags": []
     }
   ],
   "upcoming": [
