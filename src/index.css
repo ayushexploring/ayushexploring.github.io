@@ -1,0 +1,82 @@
+@import 'tailwindcss';
+
+/* Dark mode is class-driven so the toggle can override the OS preference. */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: 'Inter', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-serif: 'Newsreader', ui-serif, Georgia, serif;
+
+  /* Ink = text/surfaces, Accent = a deep academic teal */
+  --color-ink-50: oklch(0.985 0.002 250);
+  --color-ink-100: oklch(0.968 0.003 250);
+  --color-ink-200: oklch(0.922 0.005 250);
+  --color-ink-300: oklch(0.86 0.007 250);
+  --color-ink-400: oklch(0.68 0.012 250);
+  --color-ink-500: oklch(0.55 0.014 250);
+  --color-ink-600: oklch(0.44 0.014 252);
+  --color-ink-700: oklch(0.34 0.014 254);
+  --color-ink-800: oklch(0.24 0.014 256);
+  --color-ink-900: oklch(0.17 0.013 258);
+  --color-ink-950: oklch(0.12 0.012 260);
+
+  --color-accent-50: oklch(0.97 0.02 195);
+  --color-accent-100: oklch(0.94 0.04 195);
+  --color-accent-200: oklch(0.88 0.07 194);
+  --color-accent-300: oklch(0.8 0.1 193);
+  --color-accent-400: oklch(0.71 0.12 192);
+  --color-accent-500: oklch(0.63 0.12 194);
+  --color-accent-600: oklch(0.53 0.1 194);
+  --color-accent-700: oklch(0.44 0.085 196);
+  --color-accent-800: oklch(0.35 0.068 198);
+  --color-accent-900: oklch(0.28 0.052 200);
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    /* Anchor clearance lives on the sections themselves (`scroll-mt-20`).
+       Setting scroll-padding-top here too would stack with it and overshoot. */
+  }
+
+  body {
+    @apply bg-ink-50 text-ink-800 font-sans antialiased;
+    @apply dark:bg-ink-950 dark:text-ink-200;
+  }
+
+  ::selection {
+    @apply bg-accent-200 text-ink-900;
+  }
+
+  :focus-visible {
+    @apply outline-accent-500 outline-2 outline-offset-2;
+  }
+}
+
+@layer utilities {
+  /* Reveal-on-scroll: elements start hidden, IntersectionObserver adds .is-visible */
+  .reveal {
+    opacity: 0;
+    transform: translateY(16px);
+    transition:
+      opacity 0.6s cubic-bezier(0.22, 1, 0.36, 1),
+      transform 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
+  .reveal.is-visible {
+    opacity: 1;
+    transform: none;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+
+    .reveal {
+      opacity: 1;
+      transform: none;
+      transition: none;
+    }
+  }
+}

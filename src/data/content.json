@@ -1,0 +1,455 @@
+{
+  "profile": {
+    "name": "Ayush Verma",
+    "initials": "AV",
+    "role": "Scientist-‘B’ / Assistant Director",
+    "org": "Software Technology Parks of India (STPI)",
+    "orgParent": "Ministry of Electronics and Information Technology (MeitY), Government of India",
+    "secondRole": "Ph.D. Scholar",
+    "secondOrg": "School of Computer and Systems Sciences, Jawaharlal Nehru University",
+    "location": "New Delhi, India",
+    "tagline": "Cyber Security · Machine Learning · Deep Learning",
+    "about": [
+      "Hello! This is Ayush Verma. I am currently working as Scientist-'B'/Assistant Director at Software Technology Parks of India, Ministry of Electronics and Information Technology (MeitY), Government of India and a Ph.D. Scholar at School of Computer and Systems Sciences, Jawaharlal Nehru University, and I am very fortunate to be advised by Prof. Manju Khari.",
+      "My research interests include Cyber Security, Machine Learning and Deep Learning."
+    ],
+    "interests": [
+      "Cyber Security",
+      "Information Security",
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "advisor": {
+      "name": "Prof. Manju Khari",
+      "url": "https://scholar.google.com/citations?user=JB9wY5YAAAAJ&hl=en"
+    },
+    "department": {
+      "name": "SC&SS, JNU",
+      "url": "https://jnu.ac.in/scss/"
+    }
+  },
+  "contacts": [
+    {
+      "label": "Personal email",
+      "value": "ayush.k1998@gmail.com",
+      "href": "mailto:ayush.k1998@gmail.com",
+      "icon": "mail"
+    },
+    {
+      "label": "Academic email",
+      "value": "ayushv34_scs@jnu.ac.in",
+      "href": "mailto:ayushv34_scs@jnu.ac.in",
+      "icon": "mail"
+    },
+    {
+      "label": "Google Scholar",
+      "value": "Ayush Verma",
+      "href": "https://scholar.google.com/citations?user=mldR9EoAAAAJ&hl=en",
+      "icon": "scholar"
+    },
+    {
+      "label": "GitHub",
+      "value": "@ayushexploring",
+      "href": "https://github.com/ayushexploring",
+      "icon": "github"
+    },
+    {
+      "label": "LinkedIn",
+      "value": "in/ayushexploring",
+      "href": "https://www.linkedin.com/in/ayushexploring/",
+      "icon": "linkedin"
+    },
+    {
+      "label": "ORCiD",
+      "value": "0000-0001-7249-1011",
+      "href": "https://orcid.org/0000-0001-7249-1011",
+      "icon": "orcid"
+    }
+  ],
+  "scholar": {
+    "citations": 66,
+    "hIndex": 5,
+    "i10Index": 3,
+    "retrieved": "August 2026",
+    "url": "https://scholar.google.com/citations?user=mldR9EoAAAAJ&hl=en"
+  },
+  "experience": [
+    {
+      "role": "Scientist-‘B’ / Assistant Director",
+      "org": "Software Technology Parks of India (STPI)",
+      "sub": "Ministry of Electronics and Information Technology (MeitY), Government of India",
+      "start": "May'24",
+      "end": "Present",
+      "current": true
+    },
+    {
+      "role": "Junior Research Fellow (JRF)",
+      "org": "Defence Scientific Information & Documentation Centre (DESIDOC)",
+      "sub": "Defence Research & Development Organisation (DRDO)",
+      "start": "June'22",
+      "end": "Sept'22",
+      "current": false
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ph.D.",
+      "field": "Computer Science",
+      "school": "Jawaharlal Nehru University",
+      "place": "New Delhi, India",
+      "years": "2023 – Present",
+      "grade": null,
+      "current": true
+    },
+    {
+      "degree": "M.Tech",
+      "field": "Computer Science & Technology",
+      "school": "Jawaharlal Nehru University",
+      "place": "New Delhi, India",
+      "years": "2020 – 2022",
+      "grade": "8.66 / 10",
+      "current": false
+    },
+    {
+      "degree": "B.Tech",
+      "field": "Computer Science & Engineering",
+      "school": "Guru Gobind Singh Indraprastha University",
+      "place": "New Delhi, India",
+      "years": "2016 – 2020",
+      "grade": "7.13 / 10",
+      "current": false
+    }
+  ],
+  "publications": [
+    {
+      "type": "Journal",
+      "year": 2024,
+      "title": "Vision-Based Accident Anticipation and Detection Using Deep Learning",
+      "authors": [
+        "Verma, A.",
+        "Khari, M."
+      ],
+      "venue": "IEEE Instrumentation & Measurement Magazine",
+      "details": "27(3), 22–29",
+      "doi": "https://doi.org/10.1109/mim.2024.10505198",
+      "citations": 16,
+      "tags": [
+        "Deep Learning",
+        "Computer Vision"
+      ]
+    },
+    {
+      "type": "Conference",
+      "year": 2024,
+      "title": "ELA-Conv: Forgery Detection in Digital Images Based on ELA and CNN",
+      "authors": [
+        "Verma, A.",
+        "Pandey, P.",
+        "Khari, M."
+      ],
+      "venue": "Recent Trends in Image Processing and Pattern Recognition (RTIP2R 2023)",
+      "details": "Communications in Computer and Information Science, vol 2026. Springer, Cham",
+      "doi": "https://doi.org/10.1007/978-3-031-53082-1_18",
+      "citations": 13,
+      "tags": [
+        "Forensics",
+        "CNN"
+      ]
+    },
+    {
+      "type": "Conference",
+      "year": 2024,
+      "title": "Deep Learning Envisioned Accident Detection System",
+      "authors": [
+        "Alam, I.",
+        "Verma, A.",
+        "Khari, M."
+      ],
+      "venue": "Recent Trends in Image Processing and Pattern Recognition (RTIP2R 2023)",
+      "details": "Communications in Computer and Information Science, vol 2026. Springer, Cham",
+      "doi": "https://doi.org/10.1007/978-3-031-53082-1_3",
+      "citations": 5,
+      "tags": [
+        "Deep Learning",
+        "Computer Vision"
+      ]
+    },
+    {
+      "type": "Conference",
+      "year": 2024,
+      "title": "Iris Recognition System in the Context of Authentication",
+      "authors": [
+        "Kumar, G.",
+        "Gulati, A.",
+        "Verma, A.",
+        "Khari, M.",
+        "Tyagi, G."
+      ],
+      "venue": "Recent Trends in Image Processing and Pattern Recognition (RTIP2R 2023)",
+      "details": "Communications in Computer and Information Science, vol 2026. Springer, Cham",
+      "doi": "https://doi.org/10.1007/978-3-031-53082-1_28",
+      "citations": 3,
+      "tags": [
+        "Biometrics",
+        "Authentication"
+      ]
+    },
+    {
+      "type": "Book Chapter",
+      "year": 2024,
+      "title": "Comparative Assessment of Machine Learning Methods for Early Prediction of Diseases Using Health Indicators",
+      "authors": [
+        "Agarwal, A.",
+        "Verma, A.",
+        "Khari, M."
+      ],
+      "venue": "Advances in Medical Technologies and Clinical Practice Book Series",
+      "details": "pp. 160–186",
+      "doi": "https://doi.org/10.4018/979-8-3693-2238-3.ch007",
+      "citations": 17,
+      "tags": [
+        "Healthcare",
+        "Machine Learning"
+      ]
+    },
+    {
+      "type": "Book Chapter",
+      "year": 2024,
+      "title": "FaceTrace: Automated Facial Recognition Attendance System",
+      "authors": [
+        "Khurshid, S.",
+        "Ansari, A. N.",
+        "Verma, A.",
+        "Singh, P. P.",
+        "Khari, M."
+      ],
+      "venue": "Sustainable Science and Intelligent Technologies for Societal Development",
+      "details": "pp. 178–193",
+      "doi": "https://doi.org/10.4018/979-8-3693-1186-8.ch011",
+      "citations": 3,
+      "tags": [
+        "Biometrics",
+        "Computer Vision"
+      ]
+    },
+    {
+      "type": "Book Chapter",
+      "year": 2024,
+      "title": "Data-Driven Precision Agriculture for Crop Prediction and Fertilizer Recommendation Using Machine Learning",
+      "authors": [
+        "Tiwari, Y.",
+        "Verma, A.",
+        "Khari, M."
+      ],
+      "venue": "Practice, Progress, and Proficiency in Sustainability",
+      "details": "pp. 167–183",
+      "doi": "https://doi.org/10.4018/979-8-3693-4864-2.ch009",
+      "citations": 5,
+      "tags": [
+        "Agriculture",
+        "Machine Learning"
+      ]
+    },
+    {
+      "type": "Book Chapter",
+      "year": 2024,
+      "title": "Harnessing Language Models and Machine Learning for Rancorous URL Classification",
+      "authors": [
+        "Chaudhary, P.",
+        "Verma, A.",
+        "Khari, M."
+      ],
+      "venue": "CRC Press eBooks",
+      "details": "pp. 273–288",
+      "doi": "https://doi.org/10.1201/9781032711300-19",
+      "citations": 3,
+      "tags": [
+        "Cyber Security",
+        "NLP"
+      ]
+    },
+    {
+      "type": "Book Chapter",
+      "year": 2025,
+      "title": "Advancing Humanitarian Efforts in Alzheimer's Diagnosis Using AI and MRI Technology",
+      "authors": [
+        "Sharma, P.",
+        "Verma, A.",
+        "Khari, M."
+      ],
+      "venue": "CRC Press eBooks",
+      "details": "pp. 139–154",
+      "doi": "https://doi.org/10.1201/9781003479109-11",
+      "citations": 1,
+      "tags": [
+        "Healthcare",
+        "Deep Learning"
+      ]
+    }
+  ],
+  "upcoming": [
+    {
+      "title": "CNN-LSTM Synergized Framework for Enhanced DDoS Attack Detection on SDN",
+      "authors": [
+        "Kumar, S.",
+        "Singh, R.",
+        "Verma, A.",
+        "Khari, M."
+      ],
+      "venue": "International Conference on Data Mining and Information Security",
+      "year": 2024
+    },
+    {
+      "title": "Statistical Feature Fusion Driven Enhanced Network Intrusion Detection",
+      "authors": [
+        "Verma, A.",
+        "Khari, M."
+      ],
+      "venue": "International Conference on Recent Advancement and Modernization in Engineering",
+      "year": 2026
+    },
+    {
+      "title": "Analysis of Security Challenges in Next-Generation Wireless Networks",
+      "authors": [
+        "Verma, A.",
+        "Khari, M.",
+        "Kumar, K.",
+        "Alam, I.",
+        "Yadav, V."
+      ],
+      "venue": "Energy Efficient IoT-Based Wireless Sensor Network",
+      "year": 2026
+    }
+  ],
+  "honors": [
+    {
+      "title": "Best Paper Certificate",
+      "where": "International Conference on Data Mining and Information Security 2024",
+      "when": "2024",
+      "note": "Conference proceedings published in Springer (LNNS Series).",
+      "kind": "award"
+    },
+    {
+      "title": "UGC NET-JRF",
+      "where": "University Grants Commission, India",
+      "when": "June'21",
+      "note": "Qualified for Junior Research Fellowship.",
+      "kind": "award"
+    },
+    {
+      "title": "Invited session — \"DHTML with JavaScript\"",
+      "where": "Ramco Institute of Technology, Tamil Nadu, India",
+      "when": "Jan'22",
+      "note": "Anna University approved Faculty Development Training Programme (FDTP) organized by the Department of Computer Science & Engineering.",
+      "kind": "talk"
+    }
+  ],
+  "teaching": [
+    {
+      "role": "Teaching Assistant (TA)",
+      "org": "School of Computer and Systems Sciences, Jawaharlal Nehru University",
+      "note": "For the M.Tech & MCA programmes."
+    }
+  ],
+  "mentorship": [
+    {
+      "level": "M.Tech",
+      "students": [
+        {
+          "name": "Intekhab Alam",
+          "institute": "SC&SS, JNU",
+          "title": "Deep Learning Envisioned Accident Detection",
+          "period": "Dec'22 – Jun'23"
+        },
+        {
+          "name": "Gaurav Kumar",
+          "institute": "SC&SS, JNU",
+          "title": "Iris Recognition System in the Context of Authentication",
+          "period": "Dec'22 – Jun'23"
+        },
+        {
+          "name": "Abhishek Kumar",
+          "institute": "SC&SS, JNU",
+          "title": "CNN-LSTM Synergised Framework for Enhanced DDoS Attack Detection on SDN",
+          "period": "Dec'23 – Jun'24"
+        }
+      ]
+    },
+    {
+      "level": "MCA",
+      "students": [
+        {
+          "name": "Salman Khurshid",
+          "institute": "SC&SS, JNU",
+          "title": null,
+          "period": "Dec'22 – Jun'23"
+        },
+        {
+          "name": "Aamir Ansari",
+          "institute": "SC&SS, JNU",
+          "title": null,
+          "period": "Dec'22 – Jun'23"
+        }
+      ]
+    },
+    {
+      "level": "B.Tech",
+      "students": [
+        {
+          "name": "Pooja Sharma",
+          "institute": "Banasthali Vidyapith",
+          "title": "Alzheimer's Disease Classification from MRI Images with Convolutional Neural Networks",
+          "period": "Jul'23 – Dec'23"
+        },
+        {
+          "name": "Prabhuta Chaudhary",
+          "institute": "Banasthali Vidyapith",
+          "title": "Harnessing Language Models and Machine Learning for Rancorous URL Classification",
+          "period": "Jul'23 – Dec'23"
+        },
+        {
+          "name": "Amisha Agarwal",
+          "institute": "Banasthali Vidyapith",
+          "title": "Comparative Analysis of Disease Classification Based on Machine Learning",
+          "period": "Jul'23 – Dec'23"
+        },
+        {
+          "name": "Yashi Tiwari",
+          "institute": "Banasthali Vidyapith",
+          "title": "ML Based Recommendation System for Crop Yield and Fertilizer",
+          "period": "Jul'23 – Dec'23"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "about",
+      "label": "About"
+    },
+    {
+      "id": "experience",
+      "label": "Experience"
+    },
+    {
+      "id": "education",
+      "label": "Education"
+    },
+    {
+      "id": "publications",
+      "label": "Publications"
+    },
+    {
+      "id": "honors",
+      "label": "Honors"
+    },
+    {
+      "id": "teaching",
+      "label": "Teaching"
+    },
+    {
+      "id": "contact",
+      "label": "Contact"
+    }
+  ]
+}

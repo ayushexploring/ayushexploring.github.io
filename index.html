@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#f7f7f8" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#131317" media="(prefers-color-scheme: dark)" />
+
+    <title>Ayush Verma — Cyber Security, Machine Learning &amp; Deep Learning</title>
+    <meta
+      name="description"
+      content="Ayush Verma — Scientist-'B'/Assistant Director at STPI (MeitY, Government of India) and Ph.D. Scholar at SC&SS, Jawaharlal Nehru University. Research in cyber security, machine learning and deep learning."
+    />
+    <meta name="author" content="Ayush Verma" />
+    <link rel="canonical" href="https://ayushexploring.github.io/" />
+
+    <meta property="og:type" content="profile" />
+    <meta property="og:title" content="Ayush Verma — Cyber Security, Machine Learning &amp; Deep Learning" />
+    <meta
+      property="og:description"
+      content="Scientist-'B'/Assistant Director at STPI (MeitY) and Ph.D. Scholar at SC&SS, JNU. Publications in cyber security, computer vision and applied machine learning."
+    />
+    <meta property="og:url" content="https://ayushexploring.github.io/" />
+    <meta name="twitter:card" content="summary" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,500;6..72,600&display=swap"
+      rel="stylesheet"
+    />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ayush Verma",
+        "url": "https://ayushexploring.github.io/",
+        "email": "ayush.k1998@gmail.com",
+        "jobTitle": "Scientist-'B' / Assistant Director",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Software Technology Parks of India (STPI), Ministry of Electronics and Information Technology"
+        },
+        "affiliation": {
+          "@type": "CollegeOrUniversity",
+          "name": "Jawaharlal Nehru University"
+        },
+        "knowsAbout": ["Cyber Security", "Information Security", "Machine Learning", "Deep Learning"],
+        "sameAs": [
+          "https://scholar.google.com/citations?user=mldR9EoAAAAJ",
+          "https://orcid.org/0000-0001-7249-1011",
+          "https://github.com/ayushexploring",
+          "https://www.linkedin.com/in/ayushexploring/"
+        ]
+      }
+    </script>
+
+    <!-- Apply the stored theme before paint so dark mode never flashes light. -->
+    <script>
+      ;(function () {
+        try {
+          var s = localStorage.getItem('av-theme')
+          var dark = s === 'dark' || (!s && window.matchMedia('(prefers-color-scheme: dark)').matches)
+          if (dark) document.documentElement.classList.add('dark')
+          document.documentElement.style.colorScheme = dark ? 'dark' : 'light'
+        } catch (e) {}
+      })()
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
