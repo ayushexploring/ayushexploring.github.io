@@ -5,10 +5,10 @@ const primaryLinks = contacts.filter((c) => ['Google Scholar', 'GitHub', 'Linked
 
 const menteeCount = mentorship.reduce((n, g) => n + g.students.length, 0)
 
+// Both figures are derived from content.json, so they can never fall out of
+// date. Citation metrics deliberately live on Google Scholar instead of being
+// copied here, where they would go stale between manual updates.
 const stats = [
-  { label: 'Citations', value: scholar.citations, icon: 'quote' },
-  { label: 'h-index', value: scholar.hIndex, icon: 'chart' },
-  { label: 'i10-index', value: scholar.i10Index, icon: 'spark' },
   { label: 'Publications', value: publications.length, icon: 'book' },
   { label: 'Students mentored', value: menteeCount, icon: 'users' },
 ]
@@ -105,10 +105,10 @@ export default function Hero() {
           </div>
         </div>
 
-        {/* Metrics */}
-        <dl className="reveal mt-14 grid grid-cols-2 gap-px overflow-hidden rounded-2xl border border-ink-200 bg-ink-200 sm:grid-cols-3 lg:grid-cols-5 dark:border-ink-800 dark:bg-ink-800">
+        {/* Two self-updating figures, plus a link out for citation metrics. */}
+        <dl className="reveal mt-14 grid grid-cols-1 gap-px overflow-hidden rounded-2xl border border-ink-200 bg-ink-200 sm:grid-cols-3 dark:border-ink-800 dark:bg-ink-800">
           {stats.map((s) => (
-            <div key={s.label} className="bg-ink-50 px-4 py-5 dark:bg-ink-900/60">
+            <div key={s.label} className="bg-ink-50 px-5 py-5 dark:bg-ink-900/60">
               <dt className="flex items-center gap-1.5 text-[11px] font-medium uppercase tracking-wider text-ink-500 dark:text-ink-400">
                 <Icon name={s.icon} className="size-3.5" />
                 {s.label}
@@ -118,19 +118,27 @@ export default function Hero() {
               </dd>
             </div>
           ))}
-        </dl>
-        <p className="reveal mt-3 text-[11px] text-ink-400 dark:text-ink-500">
-          Citation metrics from{' '}
+
           <a
             href={scholar.url}
             target="_blank"
             rel="noreferrer noopener"
-            className="underline underline-offset-2 hover:text-ink-600 dark:hover:text-ink-300"
+            className="group bg-ink-50 px-5 py-5 transition-colors hover:bg-accent-50 dark:bg-ink-900/60 dark:hover:bg-accent-900/30"
           >
-            Google Scholar
+            <span className="flex items-center gap-1.5 text-[11px] font-medium uppercase tracking-wider text-ink-500 dark:text-ink-400">
+              <Icon name="quote" className="size-3.5" />
+              Citation metrics
+            </span>
+            {/* mt matches the numeric tiles' baseline so all three labels line up. */}
+            <span className="mt-3 inline-flex items-center gap-1.5 text-[15px] font-semibold text-accent-700 dark:text-accent-300">
+              Google Scholar
+              <Icon
+                name="external"
+                className="size-3.5 transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5"
+              />
+            </span>
           </a>
-          , retrieved {scholar.retrieved}.
-        </p>
+        </dl>
       </div>
     </div>
   )

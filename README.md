@@ -54,7 +54,7 @@ from GitHub settings if a device is lost.
 
 Open `/admin.html` → **Publications** → **+ Add publication** → fill in the fields → **Publish**.
 
-The editor also covers citation metrics, forthcoming papers, talks and honors, supervised students,
+The editor also covers your Scholar link, forthcoming papers, talks and honors, supervised students,
 experience, education, teaching, the About text, contact links and the nav. Entries can be
 reordered, duplicated and deleted.
 
@@ -78,7 +78,7 @@ same and triggers the same rebuild.
 | -------------- | -------------------------------------------------------------------- |
 | `profile`      | Name, roles, About paragraphs, research interests, advisor           |
 | `contacts`     | Contact cards, hero icon links, footer icons                         |
-| `scholar`      | Citations / h-index / i10-index and the `retrieved` date shown       |
+| `scholar`      | Google Scholar profile URL (linked from the hero strip)               |
 | `experience`   | Experience timeline                                                  |
 | `education`    | Education timeline                                                   |
 | `publications` | Publication cards — the type filter, search and sort read from these |
@@ -92,11 +92,30 @@ To add a **new field** to a section, add it to the relevant `fields` array in
 [`src/admin/schema.js`](src/admin/schema.js) and it appears in the editor automatically; then render
 it in the matching component.
 
-### Refreshing citation metrics
+### Why citation metrics aren't stored here
 
-Google Scholar has no public API, so `scholar` is a manual snapshot. Update the three numbers under
-**Citation metrics** and change *Retrieved* — the hero footnote shows that date, so the figures are
-never presented as live.
+Total citations, h-index and i10-index are deliberately **not** kept in `content.json`. They change
+whenever someone cites you, so any copy here would silently go stale — and a visitor who compares the
+page against Scholar and finds a mismatch starts doubting everything else on it. The hero links out
+to Google Scholar instead, which Google keeps current for free.
+
+The two figures the strip *does* show — publication count and students mentored — are derived from
+`publications` and `mentorship` at build time, so they update themselves whenever you add an entry.
+
+Automating this was investigated and rejected:
+
+- **Scraping Google Scholar** — no public API, no CORS, CAPTCHAs automated access from datacenter IPs
+  (which is what a GitHub Action is), and it breaks their terms. It would fail silently.
+- **OpenAlex by ORCID** — resolves, but the author record is conflated with several other people
+  named Ayush Verma (nanoparticle synthesis, cattle-feed studies, groundwater chemistry). Roughly 60%
+  of its citation count is somebody else's.
+- **OpenAlex by DOI** — accurate and automatable, but its counts run about a third lower than Scholar
+  (45 vs 66 when measured), so the figures would understate the record and could not honestly be
+  labelled "Google Scholar".
+
+Per-publication citation counts *are* still stored, on each entry in `publications`. They drive the
+per-card badge and the "Most cited" sort. Update them in the editor when convenient, or set them all
+to `0` and switch the default sort to newest in `Publications.jsx` if you'd rather not track them.
 
 ---
 

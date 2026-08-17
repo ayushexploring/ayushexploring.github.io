@@ -58,16 +58,10 @@ export const SECTIONS = [
 
   {
     key: 'scholar',
-    label: 'Citation metrics',
-    hint: 'The numbers in the hero strip. Google Scholar has no public API, so these are a manual snapshot — update “Retrieved” whenever you refresh them.',
+    label: 'Google Scholar',
+    hint: 'Citation counts, h-index and i10-index are deliberately not stored here — they would go stale between manual updates. The hero links out to Scholar instead, which Google keeps current.',
     kind: 'object',
-    fields: [
-      { name: 'citations', label: 'Total citations', type: 'number', min: 0, required: true },
-      { name: 'hIndex', label: 'h-index', type: 'number', min: 0, required: true },
-      { name: 'i10Index', label: 'i10-index', type: 'number', min: 0, required: true },
-      { name: 'retrieved', label: 'Retrieved', type: 'text', required: true, hint: 'e.g. “August 2026” — shown as a footnote under the metrics.' },
-      { name: 'url', label: 'Scholar profile URL', type: 'url', required: true },
-    ],
+    fields: [{ name: 'url', label: 'Scholar profile URL', type: 'url', required: true }],
   },
 
   {
