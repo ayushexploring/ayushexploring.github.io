@@ -38,17 +38,7 @@ export default function Hero() {
           </div>
 
           <div className="min-w-0">
-            <div className="reveal">
-              <span className="inline-flex items-center gap-2 rounded-full border border-accent-200 bg-accent-50/80 px-3 py-1 text-[12px] font-medium text-accent-800 dark:border-accent-800 dark:bg-accent-900/40 dark:text-accent-200">
-                <span className="relative grid size-1.5 place-items-center">
-                  <span className="absolute size-1.5 animate-ping rounded-full bg-accent-500" />
-                  <span className="size-1.5 rounded-full bg-accent-600" />
-                </span>
-                Open to research collaborations
-              </span>
-            </div>
-
-            <h1 className="reveal mt-6 font-serif text-4xl font-semibold leading-[1.08] tracking-tight text-ink-900 sm:text-6xl dark:text-ink-50">
+            <h1 className="reveal font-serif text-4xl font-semibold leading-[1.08] tracking-tight text-ink-900 sm:text-6xl dark:text-ink-50">
               {profile.name}
             </h1>
 
