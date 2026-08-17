@@ -75,6 +75,14 @@
   },
   "experience": [
     {
+      "role": "Chief Information Security Officer",
+      "org": "National Internet Exchange of India",
+      "sub": "Ministry of Electronics and Information Technology (MeitY), Government of India",
+      "start": "May'24",
+      "end": "Present",
+      "current": true
+    },
+    {
       "role": "Scientist-‘B’ / Assistant Director",
       "org": "Software Technology Parks of India (STPI)",
       "sub": "Ministry of Electronics and Information Technology (MeitY), Government of India",
