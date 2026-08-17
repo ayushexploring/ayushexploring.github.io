@@ -72,7 +72,7 @@
   "experience": [
     {
       "role": "Chief Information Security Officer",
-      "org": "National Internet Exchange of India",
+      "org": "National Internet Exchange of India (NIXI)",
       "sub": "Ministry of Electronics and Information Technology (MeitY), Government of India",
       "start": "May'24",
       "end": "Present",
@@ -136,7 +136,7 @@
       "venue": "IEEE Instrumentation & Measurement Magazine",
       "details": "27(3), 22–29",
       "doi": "https://doi.org/10.1109/mim.2024.10505198",
-      "citations": 16,
+      "citations": 17,
       "tags": [
         "Deep Learning",
         "Computer Vision"
@@ -210,7 +210,7 @@
       "venue": "Advances in Medical Technologies and Clinical Practice Book Series",
       "details": "pp. 160–186",
       "doi": "https://doi.org/10.4018/979-8-3693-2238-3.ch007",
-      "citations": 17,
+      "citations": 18,
       "tags": [
         "Healthcare",
         "Machine Learning"
@@ -230,7 +230,7 @@
       "venue": "Sustainable Science and Intelligent Technologies for Societal Development",
       "details": "pp. 178–193",
       "doi": "https://doi.org/10.4018/979-8-3693-1186-8.ch011",
-      "citations": 3,
+      "citations": 4,
       "tags": [
         "Biometrics",
         "Computer Vision"
