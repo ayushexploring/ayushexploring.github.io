@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { checkAccess } from './github'
+import { normaliseRepo } from './repo'
 
 const input =
   'w-full rounded-lg border border-ink-300 bg-white px-3 py-2 text-sm text-ink-900 placeholder:text-ink-400 ' +
@@ -15,12 +16,26 @@ export default function Connect({ settings, onSave }) {
 
   const set = (k) => (e) => setForm({ ...form, [k]: e.target.value.trim() })
 
+  // Normalise on blur, never on change — rewriting mid-keystroke corrupts the
+  // value as it is typed (the "https://" is stripped before the rest arrives).
+  const normaliseRepoField = () => {
+    const { owner, repo } = normaliseRepo(form.repo, form.owner)
+    if (repo !== form.repo || owner !== form.owner) {
+      setForm({ ...form, owner: owner || form.owner, repo })
+    }
+  }
+
   async function connect(e) {
     e.preventDefault()
     setBusy(true)
     setStatus(null)
     try {
-      const info = await checkAccess(form)
+      // Re-normalise here too, in case submit happened without a blur.
+      const { owner, repo } = normaliseRepo(form.repo, form.owner)
+      const cleaned = { ...form, owner: owner || form.owner, repo }
+      setForm(cleaned)
+
+      const info = await checkAccess(cleaned)
       if (!info.canWrite) {
         setStatus({
           ok: false,
@@ -28,10 +43,16 @@ export default function Connect({ settings, onSave }) {
         })
       } else {
         setStatus({ ok: true, msg: `Connected to ${info.fullName}.` })
-        onSave(form)
+        onSave(cleaned)
       }
     } catch (err) {
-      setStatus({ ok: false, msg: err.message })
+      // fetch() rejects with a bare "Failed to fetch" for a malformed URL or a
+      // dropped connection — neither of which tells you what to change.
+      const msg = /failed to fetch|networkerror|load failed/i.test(err.message)
+        ? 'Could not reach api.github.com. Check that Repository is just the repo name ' +
+          '(e.g. ayushexploring.github.io, not a full URL), and that you are online.'
+        : err.message
+      setStatus({ ok: false, msg })
     } finally {
       setBusy(false)
     }
@@ -76,9 +97,13 @@ export default function Connect({ settings, onSave }) {
               className={`${input} mt-1.5`}
               value={form.repo}
               onChange={set('repo')}
+              onBlur={normaliseRepoField}
               placeholder="ayushexploring.github.io"
               required
             />
+            <span className="mt-1 block text-[11.5px] text-ink-500 dark:text-ink-400">
+              Just the name, not the address. Pasting a full GitHub URL also works.
+            </span>
           </label>
           <label className="block">
             <span className="text-[12px] font-semibold text-ink-700 dark:text-ink-200">Branch</span>
