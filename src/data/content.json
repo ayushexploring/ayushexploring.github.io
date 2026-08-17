@@ -343,40 +343,7 @@
       "tags": []
     }
   ],
-  "upcoming": [
-    {
-      "title": "CNN-LSTM Synergized Framework for Enhanced DDoS Attack Detection on SDN",
-      "authors": [
-        "Kumar, S.",
-        "Singh, R.",
-        "Verma, A.",
-        "Khari, M."
-      ],
-      "venue": "International Conference on Data Mining and Information Security",
-      "year": 2024
-    },
-    {
-      "title": "Statistical Feature Fusion Driven Enhanced Network Intrusion Detection",
-      "authors": [
-        "Verma, A.",
-        "Khari, M."
-      ],
-      "venue": "International Conference on Recent Advancement and Modernization in Engineering",
-      "year": 2026
-    },
-    {
-      "title": "Analysis of Security Challenges in Next-Generation Wireless Networks",
-      "authors": [
-        "Verma, A.",
-        "Khari, M.",
-        "Kumar, K.",
-        "Alam, I.",
-        "Yadav, V."
-      ],
-      "venue": "Energy Efficient IoT-Based Wireless Sensor Network",
-      "year": 2026
-    }
-  ],
+  "upcoming": [],
   "honors": [
     {
       "title": "Best Paper Certificate",
